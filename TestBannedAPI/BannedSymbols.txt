@@ -1,0 +1,3 @@
+﻿M:MyObject.AMethod(MyObject);Test 1
+M:MyObject.implicit operator bool(MyObject);Test 2
+M:System.Console.WriteLine(System.String);Test 3
